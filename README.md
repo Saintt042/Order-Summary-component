@@ -1,1 +1,1 @@
-This is to complete the project given to us Team2 WEB2CVII By Jolah.
+This is to complete Frontend Mentor challenge
